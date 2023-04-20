@@ -1,0 +1,36 @@
+body {
+    background-color: #1c87c9;
+}
+
+table {
+    background-color: lightblue;
+    width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+img {
+    border: 3px solid blue;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width:200px;
+    height:150px;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.caption {
+    color: white;
+    text-align: center;
+}
